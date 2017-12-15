@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "regal-oasis-184810",
+  "private_key_id": "e0fe33a5154324108e00302a5c73616b2b6cb712",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClSPUmGUIFawnx\n7jGpTzcEY8bL6hwduOC9+b7lwkmAzXKpDRYhveNtWFxh2Bsquu0oivINcTAiJCRe\nz5ngYxw3K/D6/ThmuLfZvE77iqZtKL5CxLjCPC2QDWcdeAnUkz+cT9jy0W4uLl7v\nqHcZI/GI0SZEB4FNYljjF8TuPPr64bbjfyWMGlkPHpDRG5nGGWPIIwGgmxX6cYeZ\nT93+mvD4+1JfYaEIYFsWSvnxDhoSIDpzx3uGGHpcYzrf6bz2/vEdcfoyxEzMty+A\n1X8/llMqh95CzB14ifX5FctkhaZAFrJBB0OP7Xidfs7iPHX0o6Z4oY9BJqui6KoK\n8XZmwUn9AgMBAAECggEACOmsPoeyJbSl7qPXjbe10cjHmYtgRMIJbHUhNCaL7CQo\nALGx9dPVhbn0EVqj7GP0EfGcJ9lorQ6h33L2a0Es7lSyQ/aPqgpf75/V6n6Jhu1h\nhRwyklbIZjIy00X70bi2/2jW3BErDdZ2TBobggGMLsKIe7aj5FZfUK+hcO9c4VZg\nXmh/VkpvFolC+grIXnT9K7TMvZvdoORFHf5A+dcrGJbGkok+ecL+8OXNiBSiCqW/\nbQdjEnVcsYObAO8SnITU3YCjtUWiTLiBNIx7+yWJpXN5p16m0PJuCDGYITuRmgHm\nxiwznmCInWa/WsbXtXlkDtrGoCCT4m+6Sw6c+EjaCQKBgQDX54Aa0oNxAYh5RVks\nNrsUPyQVGbYh7XXUVHu6Inh2m2Av4Gew4XufuPgwypcsXcH0py9Q7vvqI0QR8LFG\n9Vt1YnVeXMgj3HR23/oHCmz2KKKP5LaabeStJ2zgNg1fxplkt45yQ+FytojTcSkO\nj9w7y12F2HrD77Xfb9VlrmE7twKBgQDD+utbXXakwl5+dcFiUImoAWROb2FQbZ/Y\nxfX4reh1dRXoTgVPaLTfAye5zTUlGadJOFMybMaRLH7jEGRkXF9vZD2SR8Mb36+s\n0R/QUgb4Ps7qMgTWYC2wXKAOwv3wA04EFAzA4kZWUHp9uMa6YtDeIIdMRvj6wB7j\n5xrngn5P6wKBgAWI2a/WVag/8c+qB28quAD83V/tGM4l2C9pOwK6f3wK35xalE3k\nedbOVw5pIxbwEFjFMGFSvwJxhP0wvlqjT4Ti0T9qAXdp31Jsy2wCyGhHAmPN6SBs\nUMBfklrtB8q8vJHoYq5rLwxRwZAqBnNpHKwrumoD8qGzM2ZW55GDttphAoGAUeKq\nqj8wDoFkKCSdi62pBrimJ5ukJo3XZyS3tJM9eK5WW/0VfOt7/157H8gdN4YzfoV5\nRa1rfkcAMXGs8L4j5hAVJeS0IhZheazbRRiw7tKXdAU4PjZrgLAC9IgGwF0xIMUb\n2w/wYao4tAUbi880BEvFHFrfNy5E+eabODYu/scCgYEAmRuZ4jcH/0XLVA86TV4h\nLLcwhd5w6dosBTiLghPW0SsG6AtxWjCQuat8kz4GKu8lYTqy8WINQCnJPiHffj8f\nFcA1yau7DoTFd0JNCKxm6+YnMFClQfPbOkjVojRCs/K+Wms3xCXkb5XRKv6O0oYA\nfIXM+6zhzIB/dYQlF/KmKmQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deepesh-analytics@regal-oasis-184810.iam.gserviceaccount.com",
+  "client_id": "104226338343023156700",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deepesh-analytics%40regal-oasis-184810.iam.gserviceaccount.com"
+}
